@@ -19,7 +19,7 @@ function longWord(str){
     return word;
     
 }
-console.log(longWord("salom dunyo qalesan olam man kimekajhbfh"));
+console.log(longWord("salom dunyo qalesan olam man informatikaning"));
 
 
 
